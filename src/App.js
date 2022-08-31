@@ -5,7 +5,7 @@ function App() {
     <div className="App">
 
       <div>
-      Angad Kumar Mandal
+      Angad Kumar Mandal 2s
       </div>
     </div>
     
